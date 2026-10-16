@@ -1,4 +1,5 @@
 # negocios-mamani-adhemar
+# Negocio PokeAPI - version de la rama 8
 practica 1- programacion-web-iii
 # Negocio PokeAPI - desde main
 
@@ -7,4 +8,4 @@ practica 1- programacion-web-iii
 - *Nombres:* Adhemar
 - *Paralelo:* B
 - *CI:* 13056377
-- *Fecha:* 16/10/2026
+- *Fecha:* 16 de octubre de 2026
