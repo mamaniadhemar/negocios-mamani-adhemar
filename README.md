@@ -1,6 +1,6 @@
 # negocios-mamani-adhemar
 practica 1- programacion-web-iii
-# Negocio PokeAPI
+# Negocio PokeAPI - desde main
 
 ## Datos del estudiante
 - *Apellidos:* Mamani Choquehuanca 
