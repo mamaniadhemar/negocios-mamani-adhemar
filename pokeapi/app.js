@@ -8,7 +8,7 @@ async function buscarPokemon() {
   }
   resultado.textContent = 'Cargando...';
   try {
-    const respuesta = await fetch('https://pokeapi.co/api/v2/pokemon/${nombre}');
+    const respuesta = await fetch(`https://pokeapi.co/api/v2/pokemon/${nombre}`);
     if (!respuesta.ok) {
       throw new Error('El pokémon no existe');
     }
